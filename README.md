@@ -25,6 +25,3 @@ Data Pipeline: Raw Data → S3 → ETL → Clean Data → Model Training → Dep
 - Scikit-learn
 - Pandas
 
-## Installation
-
-### 1. Clone repo
